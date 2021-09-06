@@ -1,0 +1,11 @@
+### Introduction
+- 👋 Hi, I’m @joonasuusi
+- 👀 I’m a Master's student in software development and telecommunications it the University of Jyväskylä
+- 🌱 I’m currently learning funcional programming (Haskell) and web-programming(back-end)
+- 📫 How to reach me:
+  - LinkedIn, Joonas Uusi-Autti
+
+<!---
+joonasuusi/joonasuusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
