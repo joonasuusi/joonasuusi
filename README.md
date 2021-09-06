@@ -1,6 +1,6 @@
 ### Introduction
 - 👋 Hi, I’m @joonasuusi
-- 👀 I’m a Master's student in software development and telecommunications it the University of Jyväskylä
+- 👀 I’m a Master's student in software development and telecommunications at the University of Jyväskylä
 - 🌱 I’m currently learning funcional programming (Haskell) and web-programming(back-end)
 - 📫 How to reach me:
   - LinkedIn, Joonas Uusi-Autti
