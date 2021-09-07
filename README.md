@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning funcional programming (Haskell) and web-programming(back-end)
 - 📫 How to reach me:
   - LinkedIn, Joonas Uusi-Autti
+- I will add my projects here every now and then.
 
 <!---
 joonasuusi/joonasuusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
