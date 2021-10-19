@@ -1,7 +1,7 @@
 ### Introduction
 - 👋 Hi, I’m @joonasuusi
 - 👀 I’m a Master's student in software development and telecommunications technology at the University of Jyväskylä
-- 🌱 I’m currently learning functional programming (Haskell) and web-programming(back-end)
+- 🌱 I’m currently learning building digital workflows with the ServiceNow platform
 - 📫 How to reach me:
   - LinkedIn, Joonas Uusi-Autti
 - I will add my projects here every now and then.
